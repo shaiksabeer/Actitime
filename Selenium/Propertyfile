@@ -1,0 +1,6 @@
+br = chrome
+url =https://www.facebook.com
+username =7287880483
+password =Raghu@7890
+key = webdriver.chrome.driver
+value = "./Driver/chromedriver.exe
